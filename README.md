@@ -1,5 +1,6 @@
 AR6 WG1 Chapter 3 Figure 3.28 Halosteric Sea Level Change
 =========================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6779693.svg)](https://doi.org/10.5281/zenodo.6779693)
 
 Figure number: Figure 3.28
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
